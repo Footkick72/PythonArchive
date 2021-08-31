@@ -1,0 +1,7 @@
+
+One small letter, surrounded by EXACTLY three big bodyguards on each of its sides. 
+
+
+To see the solutions to the previous level, replace pc with pcc, i.e. go to: http://www.pythonchallenge.com/pcc/def/equality.html 
+
+Join us on IRC: irc.freenode.net #pythonchallenge 
